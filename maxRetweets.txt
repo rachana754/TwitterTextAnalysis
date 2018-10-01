@@ -1,0 +1,43 @@
+The top 10 tweets who has the max number of retweets : 
+
+
+1. Username: SatharIrshad
+ number of retweets: 9535
+
+
+2. Username: Karthik48248599
+ number of retweets: 9535
+
+
+3. Username: deejaydharshan
+ number of retweets: 9535
+
+
+4. Username: kamrank08224123
+ number of retweets: 9
+
+
+5. Username: jayant007bond
+ number of retweets: 892
+
+
+6. Username: Rk_indiafirst
+ number of retweets: 892
+
+
+7. Username: jk_coolguy
+ number of retweets: 869
+
+
+8. Username: yoonlilcat
+ number of retweets: 8482
+
+
+9. Username: UmairBinToheed
+ number of retweets: 846
+
+
+10. Username: ram_Eesha
+ number of retweets: 846
+
+
